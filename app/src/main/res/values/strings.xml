@@ -6,4 +6,6 @@
     <string name="run">RUN</string>
     <string name="set_your_time">Set Your Time</string>
     <string name="set_time">Set Time</string>
+    <string name="_0_minutes">0 Minutes</string>
+    <string name="run2">RUN</string>
 </resources>
